@@ -1,4 +1,4 @@
-## Visual Data Science - Lab Report 1  
+## Visual Data Science - Lab 1  
 
 Description of data used:  
 ************************************************************************************************************************
